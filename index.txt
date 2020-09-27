@@ -1,0 +1,9 @@
+Chapter1:	image capture
+chapter2:	video capture
+chapter3:	webcam capture
+chapter4:	basic functions
+chapter5:	resize & crop
+chapter6:	shape & text
+chapter7:	wrapPerspective
+chapter8:	image Joining
+chapter9:	color detection
